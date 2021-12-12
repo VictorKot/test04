@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Test03
+title = test04
 
 # (str) Package name
-package.name = test03
+package.name = test04
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
